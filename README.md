@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 </a> -->
 </p>
  
+[![Daves's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daveo24&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Daveo24&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) 
  
  ![Profile views](https://gpvc.arturio.dev/Daveo24)
 
