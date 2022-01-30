@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 
 <p align=none>
 <a href="https://github.com/Daveo24">
-  <img height="180em" column ="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daveo24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" column ="250em" src="https://daveo24-github-readme-stats.vercel.app/api?username=Daveo24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daveo24&layout=compact&langs_count=8&theme=algolia"/>
 </a> -->
 </p>
+
  
-[![Daves's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daveo24&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Daves's top languages](https://daveo24-github-readme-stats.vercel.app/api/top-langs/?username=Daveo24&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
  
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Daveo24&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) 
  
