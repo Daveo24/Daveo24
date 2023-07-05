@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=golang)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
